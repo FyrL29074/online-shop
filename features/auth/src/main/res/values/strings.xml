@@ -1,0 +1,7 @@
+<resources>
+    <string name="info">Нажимая кнопку “Войти”, Вы принимаете <u>условия программы лояльности</u>.</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="phone">Номер телефона</string>
+    <string name="auth">Войти</string>
+</resources>
